@@ -1,0 +1,430 @@
+{
+  "company": {
+    "samsungElec": {
+      "name": "삼성전자",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5600"
+    },
+    "samsungSDI": {
+      "name": "삼성SDI",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5100"
+    },
+    "samsungSDS": {
+      "name": "삼성SDS",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5200"
+    },
+    "samsungElec2": {
+      "name": "삼성전기",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5000"
+    },
+    "samsungLife": {
+      "name": "삼성전자",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5300"
+    },
+    "samsungCard": {
+      "name": "삼성카드",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "4800"
+    },
+    "samsungHeavy": {
+      "name": "삼성중공업",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5800"
+    },
+    "samsungMulsan": {
+      "name": "삼성물산",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5700"
+    },
+    "samsungWellstory": {
+      "name": "삼성웰스토리",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "4700"
+    },
+    "samsungbio": {
+      "name": "삼성바이오로직스",
+      "enScore": "780",
+      "eduGrade": "4",
+      "salary": "5250"
+    },
+    "hyundaiCar": {
+      "name": "현대자동차",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "6000"
+    },
+    "kiaCar": {
+      "name": "기아자동차",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5800"
+    },
+    "hyundaiEngeering": {
+      "name": "현대엔지니어링",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5800"
+    },
+    "hyundaiMobis": {
+      "name": "현대모비스",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "6100"
+    },
+    "hyundaiWia": {
+      "name": "현대위아",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5400"
+    },
+    "hyundaiCard": {
+      "name": "현대카드",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "4600"
+    },
+    "hyundaiElevator": {
+      "name": "현대엘레베이터",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "5100"
+    },
+    "hyundaiHeavy": {
+      "name": "현대중공업",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5400"
+    },
+    "hyundaiConstruction": {
+      "name": "현대건설기계",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5100"
+    },
+    "lgElec": {
+      "name": "LG전자",
+      "enScore": "730",
+      "eduGrade": "3",
+      "salary": "4900"
+    },
+    "lgDisplay": {
+      "name": "LG디스플레이",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "4800"
+    },
+    "lgInotech": {
+      "name": "LG이노텍",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "4800"
+    },
+    "lgChemical": {
+      "name": "LG화학",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "5300"
+    },
+    "lgEnergy": {
+      "name": "LG에너지솔루션",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "5200"
+    },
+    "lgUPlus": {
+      "name": "LG유플러스",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "4850"
+    },
+    "lgCNS": {
+      "name": "LGCNS",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "4800"
+    },
+    "skInovation": {
+      "name": "SK이노베이션",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5600"
+    },
+    "skEnergy": {
+      "name": "SK에너지",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5500"
+    },
+    "skChemical": {
+      "name": "SK케미칼",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5700"
+    },
+    "skBioFarm": {
+      "name": "SK바이오팜",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5300"
+    },
+    "skTelecom": {
+      "name": "SK텔레콤",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "6000"
+    },
+    "skCC": {
+      "name": "SKC&C",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5400"
+    },
+    "skHynics": {
+      "name": "SK하이닉스",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5600"
+    },
+    "ktTelecom": {
+      "name": "KT텔레콤",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4900"
+    },
+    "ktSat": {
+      "name": "KT SAT",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4600"
+    },
+    "hanwhaAero": {
+      "name": "한화에어로스페이스",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4800"
+    },
+    "hanwhaDefence": {
+      "name": "한화디펜스",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4600"
+    },
+    "hanwhaTechwin": {
+      "name": "한화테크윈",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4600"
+    },
+    "hanwhaTotal": {
+      "name": "한화토탈",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5100"
+    },
+    "hanwhaQcell": {
+      "name": "한화큐셀",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4400"
+    },
+    "hanwhaLife": {
+      "name": "한화생명",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4800"
+    },
+    "posco": {
+      "name": "POSCO",
+      "enScore": "830",
+      "eduGrade": "5",
+      "salary": "5400"
+    },
+    "lotte": {
+      "name": "롯데",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4900"
+    },
+    "gsCaltecs": {
+      "name": "GS칼텍스",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5800"
+    },
+    "gsEnergy": {
+      "name": "GS에너지",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5800"
+    },
+    "gsConstruct": {
+      "name": "GS건설",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5600"
+    },
+    "cjjeil": {
+      "name": "cj제일제당",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4400"
+    },
+    "cjEnm": {
+      "name": "CJ ENM",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4800"
+    },
+    "dusanHeavy": {
+      "name": "두산중공업",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4800"
+    },
+    "dusanRobotics": {
+      "name": "두산로보틱스",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4600"
+    },
+    "dusanConstruct": {
+      "name": "두산건설",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "5100"
+    },
+    "kakao": {
+      "name": "카카오",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "6000"
+    },
+    "soil": {
+      "name": "에스오일",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "5900"
+    },
+    "naver": {
+      "name": "네이버",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "6000"
+    },
+    "nexon": {
+      "name": "넥슨",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "5300"
+    },
+    "netmarble": {
+      "name": "넷마블",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "4800"
+    },
+    "nc": {
+      "name": "엔씨소프트",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "5800"
+    },
+    "hankukTier": {
+      "name": "한국타이어",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "4400"
+    },
+    "OCI": {
+      "name": "오씨아이",
+      "enScore": "770",
+      "eduGrade": "3",
+      "salary": "4500"
+    },
+    "eland": {
+      "name": "이랜드",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "4300"
+    },
+    "ls": {
+      "name": "LS산전",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "4400"
+    },
+    "coupang": {
+      "name": "쿠팡",
+      "enScore": "770",
+      "eduGrade": "3",
+      "salary": "5600"
+    },
+    "hiteJinro": {
+      "name": "하이트진로",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "4500"
+    },
+    "koreaSpace": {
+      "name": "한국항공우주산업",
+      "enScore": "830",
+      "eduGrade": "4",
+      "salary": "4800"
+    },
+    "samyang": {
+      "name": "삼양",
+      "enScore": "630",
+      "eduGrade": "3",
+      "salary": "4700"
+    },
+    "sinsegye": {
+      "name": "신세계",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4700"
+    },
+    "kWater": {
+      "name": "한국수자원공사",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4600"
+    },
+    "kElec": {
+      "name": "한국전력",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4600"
+    },
+    "hyosung": {
+      "name": "효성",
+      "enScore": "770",
+      "eduGrade": "4",
+      "salary": "4700"
+    },
+    "crefton": {
+      "name": "크레프톤",
+      "enScore": "660",
+      "eduGrade": "3",
+      "salary": "6000"
+    },
+    "bm": {
+      "name": "배달의민족",
+      "enScore": "630",
+      "eduGrade": "2",
+      "salary": "6000"
+    }
+  }
+}
