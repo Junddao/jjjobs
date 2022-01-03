@@ -1,6 +1,12 @@
 import 'package:dropdown_search/dropdown_search.dart';
 import 'package:flutter/material.dart';
+import 'package:jjjob/model/model_company.dart';
+import 'package:jjjob/model/model_school.dart';
+import 'package:jjjob/model/model_team.dart';
+import 'package:jjjob/page/page_result.dart';
+import 'package:jjjob/provider/provider_company.dart';
 import 'package:jjjob/style/textstyles.dart';
+import 'package:provider/provider.dart';
 
 class PageHome extends StatefulWidget {
   const PageHome({Key? key}) : super(key: key);
@@ -10,14 +16,45 @@ class PageHome extends StatefulWidget {
 }
 
 class _PageHomeState extends State<PageHome> {
-  String? selectedValue = '0';
-  var _valueList = ['0', '1', '2'];
+  String? selectedSchool = '서울대';
+  String? selectedMajor = '이과';
+  String? selectedGrade = '최상';
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: _appBar(),
       body: _body(),
+      bottomSheet: InkWell(
+        onTap: () {
+          Navigator.of(context).push(
+            MaterialPageRoute(
+                builder: (context) => PageResult(
+                      selectedSchool: selectedSchool,
+                      selectedGrade: selectedGrade,
+                      selectedMajor: selectedMajor,
+                    )),
+          );
+        },
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 18),
+          child: Container(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(12),
+              color: Colors.red[500],
+            ),
+            height: 50,
+            width: double.infinity,
+            child: Center(
+              child: Text('나의 미래 직장은??',
+                  style: TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 18)),
+            ),
+          ),
+        ),
+      ),
     );
   }
 
@@ -38,6 +75,7 @@ class _PageHomeState extends State<PageHome> {
             SizedBox(height: 16),
             // 이과 / 문과
             MajorWidget(),
+            SizedBox(height: 16),
             // 영어점수 입력
             LanguageScoreWidget(),
           ],
@@ -47,22 +85,29 @@ class _PageHomeState extends State<PageHome> {
   }
 
   SchoolWidget() {
+    List<String> schools = [];
+    List<ModelSchoolInfo> modelSchoolInfo =
+        context.read<ProviderCompany>().modelSchools;
+    modelSchoolInfo.forEach((element) {
+      schools.add(element.name!);
+    });
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text('대학교를 선택하세요.', style: MTextStyles.bold16Black),
+        Text('지금 혹은 미래의 나의 대학교는?.', style: MTextStyles.bold16Black),
         SizedBox(height: 8),
         DropdownSearch<String>(
             mode: Mode.MENU,
             showSelectedItems: true,
-            items: ["Brazil", "Italia (Disabled)", "Tunisia", 'Canada'],
+            items: schools,
             dropdownSearchDecoration: InputDecoration(
               hintText: '대학교를 선택하세요',
               // labelText: '대학교',
             ),
-            popupItemDisabled: (String s) => s.startsWith('I'),
-            onChanged: print,
-            selectedItem: "Brazil"),
+            onChanged: (value) {
+              selectedSchool = value;
+            },
+            selectedItem: selectedSchool),
       ],
     );
   }
@@ -71,7 +116,7 @@ class _PageHomeState extends State<PageHome> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text('전공을 선택하세요.', style: MTextStyles.bold16Black),
+        Text('이과? 문과? 예체능?.', style: MTextStyles.bold16Black),
         SizedBox(height: 8),
         DropdownSearch<String>(
             mode: Mode.MENU,
@@ -81,9 +126,10 @@ class _PageHomeState extends State<PageHome> {
               hintText: '전공을 선택하세요.',
               // labelText: '대학교',
             ),
-            popupItemDisabled: (String s) => s.startsWith('I'),
-            onChanged: print,
-            selectedItem: "이과"),
+            onChanged: (value) {
+              selectedMajor = value;
+            },
+            selectedItem: selectedMajor),
       ],
     );
   }
@@ -92,7 +138,7 @@ class _PageHomeState extends State<PageHome> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text('전공을 선택하세요.', style: MTextStyles.bold16Black),
+        Text('미래 혹은 지금의 영어등급은?', style: MTextStyles.bold16Black),
         SizedBox(height: 8),
         DropdownSearch<String>(
             mode: Mode.MENU,
@@ -103,8 +149,10 @@ class _PageHomeState extends State<PageHome> {
               // labelText: '대학교',
             ),
             popupItemDisabled: (String s) => s.startsWith('I'),
-            onChanged: print,
-            selectedItem: "최상"),
+            onChanged: (value) {
+              selectedGrade = value;
+            },
+            selectedItem: selectedGrade),
         SizedBox(height: 8),
         Text('TOEIC', style: MTextStyles.regular12WarmGrey),
         Text('최상(830이상) / 상(780이상) / 중(730이상) / 하(660이상) / 최하(660미만)',

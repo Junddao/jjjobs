@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:jjjob/page/page_home.dart';
+import 'package:jjjob/page/page_result.dart';
 
 class Routers {
   static Route<dynamic> generateRoute(RouteSettings settings) {
@@ -10,6 +11,16 @@ class Routers {
       case 'PageHome':
         return CupertinoPageRoute(
           builder: (_) => PageHome(),
+          settings: settings,
+        );
+
+      case 'PageResult':
+        return CupertinoPageRoute(
+          builder: (_) => PageResult(
+            selectedSchool: arguments[0],
+            selectedMajor: arguments[1],
+            selectedGrade: arguments[2],
+          ),
           settings: settings,
         );
 
