@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jjjob">
+    package="com.jtb.jjjob">
    <application
         android:label="jjjob"
         android:icon="@mipmap/ic_launcher">
@@ -37,5 +37,8 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9695790043722201~7644896626"/>
     </application>
 </manifest>

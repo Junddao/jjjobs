@@ -1,0 +1,56 @@
+{
+  "major": {
+    "hr": {
+      "name": "인사팀",
+      "type": 0
+    },
+    "sw_developer": {
+      "name": "개발팀",
+      "type": 2
+    },
+    "product": {
+      "name": "생산팀",
+      "type": 0
+    },
+    "productManager": {
+      "name": "생산관리팀",
+      "type": 0
+    },
+    "qa": {
+      "name": "QA팀",
+      "type": 0
+    },
+    "support": {
+      "name": "총무팀",
+      "type": 0
+    },
+    "tech": {
+      "name": "기술팀",
+      "type": 2
+    },
+    "marketing": {
+      "name": "마케팅팀",
+      "type": 1
+    },
+    "purchase": {
+      "name": "구매탐",
+      "type": 1
+    },
+    "businessOperation": {
+      "name": "사업운영팀",
+      "type": 1
+    },
+    "planning": {
+      "name": "사업기획팀",
+      "type": 1
+    },
+    "itInfra": {
+      "name": "IT 인프라팀",
+      "type": 2
+    },
+    "strategy": {
+      "name": "경영전략팀",
+      "type": 1
+    }
+  }
+}

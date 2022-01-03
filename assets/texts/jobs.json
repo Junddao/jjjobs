@@ -4,313 +4,365 @@
       "name": "삼성전자",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5600
+      "salary": 5600,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungSDI": {
       "name": "삼성SDI",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5100
+      "salary": 5100,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungSDS": {
       "name": "삼성SDS",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5200
+      "salary": 5200,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungElec2": {
       "name": "삼성전기",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5000
+      "salary": 5000,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungLife": {
       "name": "삼성전자",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5300
+      "salary": 5300,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungCard": {
       "name": "삼성카드",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungHeavy": {
       "name": "삼성중공업",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5800
+      "salary": 5800,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungMulsan": {
       "name": "삼성물산",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5700
+      "salary": 5700,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungWellstory": {
       "name": "삼성웰스토리",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 4700
+      "salary": 4700,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "samsungbio": {
       "name": "삼성바이오로직스",
       "enScore": 780,
       "eduGrade": 4,
-      "salary": 5250
+      "salary": 5250,
+      "contents": "파란피를 가진자가 되실껍니다."
     },
     "hyundaiCar": {
       "name": "현대자동차",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "kiaCar": {
       "name": "기아자동차",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5800
+      "salary": 5800,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiEngeering": {
       "name": "현대엔지니어링",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5800
+      "salary": 5800,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiMobis": {
       "name": "현대모비스",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 6100
+      "salary": 6100,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiWia": {
       "name": "현대위아",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5400
+      "salary": 5400,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiCard": {
       "name": "현대카드",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiElevator": {
       "name": "현대엘레베이터",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 5100
+      "salary": 5100,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiHeavy": {
       "name": "현대중공업",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 5400
+      "salary": 5400,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "hyundaiConstruction": {
       "name": "현대건설기계",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5100
+      "salary": 5100,
+      "contents": "현대인은 불가능을 가능케 합니다."
     },
     "lgElec": {
       "name": "LG전자",
       "enScore": 730,
       "eduGrade": 3,
-      "salary": 4900
+      "salary": 4900,
+      "contents": "파란피의 영원한 라이벌."
     },
     "lgDisplay": {
       "name": "LG디스플레이",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "파란피의 영원한 라이벌."
     },
     "lgInotech": {
       "name": "LG이노텍",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "파란피의 영원한 라이벌."
     },
     "lgChemical": {
       "name": "LG화학",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 5300
+      "salary": 5300,
+      "contents": "파란피의 영원한 라이벌."
     },
     "lgEnergy": {
       "name": "LG에너지솔루션",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 5200
+      "salary": 5200,
+      "contents": "파란피의 영원한 라이벌."
     },
     "lgUPlus": {
       "name": "LG유플러스",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 4850
+      "salary": 4850,
+      "contents": "파란피의 영원한 라이벌."
     },
     "lgCNS": {
       "name": "LGCNS",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "파란피의 영원한 라이벌."
     },
     "skInovation": {
       "name": "SK이노베이션",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 5600
+      "salary": 5600,
+      "contents": "사실 가장 가기 어려운 회사는 SK인것 같아요."
     },
     "skEnergy": {
       "name": "SK에너지",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 5500
+      "salary": 5500,
+      "contents": "사실 가장 가기 어려운 회사는 스크인것 같아요."
     },
     "skChemical": {
       "name": "SK케미칼",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 5700
+      "salary": 5700,
+      "contents": "사실 가장 가기 어려운 회사는 스크인것 같아요."
     },
     "skBioFarm": {
       "name": "SK바이오팜",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5300
+      "salary": 5300,
+      "contents": "사실 가장 가기 어려운 회사는 스크인것 같아요."
     },
     "skTelecom": {
       "name": "SK텔레콤",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "사실 가장 가기 어려운 회사는 스크인것 같아요."
     },
     "skCC": {
       "name": "SKC&C",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5400
+      "salary": 5400,
+      "contents": "사실 가장 가기 어려운 회사는 스크인것 같아요."
     },
     "skHynics": {
       "name": "SK하이닉스",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5600
+      "salary": 5600,
+      "contents": "사실 가장 가기 어려운 회사는 스크인것 같아요."
     },
     "ktTelecom": {
       "name": "KT텔레콤",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4900
+      "salary": 4900,
+      "contents": "정년이 보장되는 안정적인 대기업"
     },
     "ktSat": {
       "name": "KT SAT",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "정년이 보장되는 안정적인 대기업"
     },
     "hanwhaAero": {
       "name": "한화에어로스페이스",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "최고는 아니지만 최악도 아닌 은근히 좋은 기업, 한화"
     },
     "hanwhaDefence": {
       "name": "한화디펜스",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "최고는 아니지만 최악도 아닌 은근히 좋은 기업, 한화"
     },
     "hanwhaTechwin": {
       "name": "한화테크윈",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "최고는 아니지만 최악도 아닌 은근히 좋은 기업, 한화"
     },
     "hanwhaTotal": {
       "name": "한화토탈",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5100
+      "salary": 5100,
+      "contents": "최고는 아니지만 최악도 아닌 은근히 좋은 기업, 한화"
     },
     "hanwhaQcell": {
       "name": "한화큐셀",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4400
+      "salary": 4400,
+      "contents": "최고는 아니지만 최악도 아닌 은근히 좋은 기업, 한화"
     },
     "hanwhaLife": {
       "name": "한화생명",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "최고는 아니지만 최악도 아닌 은근히 좋은 기업, 한화"
     },
     "posco": {
       "name": "POSCO",
       "enScore": 830,
       "eduGrade": 5,
-      "salary": 5400
+      "salary": 5400,
+      "contents": "저도 가고 싶은 회사입니다."
     },
     "lotte": {
       "name": "롯데",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4900
+      "salary": 4900,
+      "contents": "껌이라면 역시 롯데껌."
     },
     "gsCaltecs": {
       "name": "GS칼텍스",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 5800
+      "salary": 5800,
+      "contents": "돈 많이 주는 대기업"
     },
     "gsEnergy": {
       "name": "GS에너지",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 5800
+      "salary": 5800,
+      "contents": "돈 많이 주는 대기업"
     },
     "gsConstruct": {
       "name": "GS건설",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5600
+      "salary": 5600,
+      "contents": "돈 많이 주는 대기업"
     },
     "cjjeil": {
       "name": "cj제일제당",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4400
+      "salary": 4400,
+      "contents": "빵은 뚜레쭈루, 만두는 비비고"
     },
     "cjEnm": {
       "name": "CJ ENM",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "엔터계의 최강자"
     },
     "dusanHeavy": {
       "name": "두산중공업",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "사람이 미래다."
     },
     "dusanRobotics": {
       "name": "두산로보틱스",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "협동로봇 국내 1등업체"
     },
     "dusanConstruct": {
       "name": "두산건설",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 5100
+      "salary": 5100,
+      "contents": "사람이 미래다."
     },
     "kakao": {
       "name": "카카오",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "코딩 테스트 겁나 어려움."
     },
     "soil": {
       "name": "에스오일",
@@ -322,139 +374,169 @@
       "name": "네이버",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "기안84 보기 힘듬"
     },
     "nexon": {
       "name": "넥슨",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 5300
+      "salary": 5300,
+      "contents": "아직도 메이플 잘되는건 안비밀."
     },
     "netmarble": {
       "name": "넷마블",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "넷마블은 고스톱이 짱짱임."
     },
     "nc": {
       "name": "엔씨소프트",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 5800
+      "salary": 5800,
+      "contents": "욕해도 계속하는 마성의 게임을 만드느 회사."
     },
     "hankukTier": {
       "name": "한국타이어",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 4400
+      "salary": 4400,
+      "contents": "공장 발령나면 많이힘듬."
     },
     "OCI": {
       "name": "오씨아이",
       "enScore": 770,
       "eduGrade": 3,
-      "salary": 4500
+      "salary": 4500,
+      "contents": "좋은 회사."
     },
     "eland": {
       "name": "이랜드",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 4300
+      "salary": 4300,
+      "contents": "잘 모름."
     },
     "ls": {
       "name": "LS산전",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 4400
+      "salary": 4400,
+      "contents": "PLC는 역시 지멘스."
     },
     "coupang": {
       "name": "쿠팡",
       "enScore": 770,
       "eduGrade": 3,
-      "salary": 5600
+      "salary": 5600,
+      "contents": "배달비 너무 비싸용 ㅠㅠ."
     },
     "hiteJinro": {
       "name": "하이트진로",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 4500
+      "salary": 4500,
+      "contents": "요즘에는 찡따오가 더 싼듯."
     },
     "koreaSpace": {
       "name": "한국항공우주산업",
       "enScore": 830,
       "eduGrade": 4,
-      "salary": 4800
+      "salary": 4800,
+      "contents": "경남 사천가서 근무하면 됩니다."
     },
     "samyang": {
       "name": "삼양",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 4700
+      "salary": 4700,
+      "contents": "라면은 진라면이.."
     },
     "sinsegye": {
       "name": "신세계",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4700
+      "salary": 4700,
+      "contents": "앱 버그 많더라."
     },
     "kWater": {
       "name": "한국수자원공사",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "공기업 시험 너무 어려워ㅠㅠ"
     },
     "kElec": {
       "name": "한국전력",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4600
+      "salary": 4600,
+      "contents": "왜 주가는 계속 빠져??"
     },
     "hyosung": {
       "name": "효성",
       "enScore": 770,
       "eduGrade": 4,
-      "salary": 4700
+      "salary": 4700,
+      "contents": "대기업인듯 대기업 아닌 대기업같은 너."
     },
     "crefton": {
       "name": "크레프톤",
       "enScore": 660,
       "eduGrade": 3,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "판교역 크레프톤 타워 겁나 이뻐."
     },
     "bm": {
       "name": "배달의민족",
       "enScore": 630,
       "eduGrade": 2,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "통닭먹고 사람뽑던때가 엊그제 같은데.. 유니콘"
     },
     "line": {
       "name": "라인",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "한국에선 잘 안쓰더라.."
     },
     "dangguen": {
       "name": "당근마켓",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 5400
+      "salary": 5400,
+      "contents": "중고나라한테 사과하세요."
     },
     "toss": {
       "name": "토스",
       "enScore": 630,
       "eduGrade": 3,
-      "salary": 5400
+      "salary": 5400,
+      "contents": "패스, 스파이크.."
     },
     "startup": {
       "name": "스타트업",
       "enScore": 300,
       "eduGrade": 2,
-      "salary": 6000
+      "salary": 6000,
+      "contents": "유니콘을 향해 달려가세요."
     },
     "smallCompany": {
       "name": "내실있는 중소기업",
       "enScore": 550,
       "eduGrade": 2,
-      "salary": 4400
+      "salary": 4400,
+      "contents": "굳이 대기업 갈필요 있나요."
+    },
+    "noJob": {
+      "name": "취준생",
+      "enScore": 0,
+      "eduGrade": 0,
+      "salary": 0,
+      "contents": "높이 날기 위해 준비중입니다."
     }
   }
 }

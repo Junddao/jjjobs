@@ -1,15 +1,15 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:jjjob/page_splash.dart';
+import 'package:jjjob/page/page_home.dart';
 
 class Routers {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     dynamic arguments = settings.arguments;
 
     switch (settings.name) {
-      case 'PageTabs':
+      case 'PageHome':
         return CupertinoPageRoute(
-          builder: (_) => PageSplash(),
+          builder: (_) => PageHome(),
           settings: settings,
         );
 

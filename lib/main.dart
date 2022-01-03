@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:jjjob/page_home.dart';
-import 'package:jjjob/page_splash.dart';
+import 'package:jjjob/page/page_splash.dart';
 
-void main() {
+import 'package:jjjob/route.dart';
+
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MobileAds.instance.initialize();
   runApp(const MyApp());
@@ -28,6 +29,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       home: PageSplash(),
+      onGenerateRoute: Routers.generateRoute,
     );
   }
 }
