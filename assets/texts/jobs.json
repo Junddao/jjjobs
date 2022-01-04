@@ -138,49 +138,49 @@
       "enScore": 730,
       "eduGrade": 3,
       "salary": 4900,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "LG디스플레이",
       "enScore": 660,
       "eduGrade": 3,
       "salary": 4800,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "LG이노텍",
       "enScore": 660,
       "eduGrade": 3,
       "salary": 4800,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "LG화학",
       "enScore": 660,
       "eduGrade": 3,
       "salary": 5300,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "LG에너지솔루션",
       "enScore": 660,
       "eduGrade": 3,
       "salary": 5200,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "LG유플러스",
       "enScore": 660,
       "eduGrade": 3,
       "salary": 4850,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "LGCNS",
       "enScore": 660,
       "eduGrade": 3,
       "salary": 4800,
-      "contents": "파란피의 영원한 라이벌."
+      "contents": "삼성의 영원한 라이벌.. 하지만 삼성도 그리 생각할까?."
     },
     {
       "name": "SK이노베이션",
@@ -360,7 +360,7 @@
     {
       "name": "카카오",
       "enScore": 630,
-      "eduGrade": 3,
+      "eduGrade": 0,
       "salary": 6000,
       "contents": "코딩 테스트 겁나 어려움."
     },
@@ -380,7 +380,7 @@
     {
       "name": "넥슨",
       "enScore": 630,
-      "eduGrade": 3,
+      "eduGrade": 0,
       "salary": 5300,
       "contents": "아직도 메이플 잘되는건 안비밀."
     },
@@ -431,7 +431,7 @@
       "enScore": 770,
       "eduGrade": 3,
       "salary": 5600,
-      "contents": "배달비 너무 비싸용 ㅠㅠ."
+      "contents": "쿠팡맨들 화이팅 !!."
     },
     {
       "name": "하이트진로",
@@ -492,7 +492,7 @@
     {
       "name": "배달의민족",
       "enScore": 630,
-      "eduGrade": 2,
+      "eduGrade": 0,
       "salary": 6000,
       "contents": "통닭먹고 사람뽑던때가 엊그제 같은데.. 유니콘"
     },
@@ -520,23 +520,23 @@
     {
       "name": "스타트업",
       "enScore": 300,
-      "eduGrade": 2,
+      "eduGrade": 0,
       "salary": 6000,
       "contents": "유니콘을 향해 달려가세요."
     },
     {
       "name": "내실있는 중소기업",
       "enScore": 550,
-      "eduGrade": 2,
+      "eduGrade": 0,
       "salary": 4400,
       "contents": "굳이 대기업 갈필요 있나요."
     },
     {
-      "name": "취준생",
+      "name": "취업준비중",
       "enScore": 0,
       "eduGrade": 0,
       "salary": 0,
-      "contents": "높이 날기 위해 준비중입니다."
+      "contents": "어학 또는 전공 실력이 부족할수 있어요.\n\n취업을 위한 최소한의 노력은 하셔야 합니다.\n\n하지만 기죽지 마세요.\n\n높이 날기 위해 준비중입니다. "
     }
   ]
 }
