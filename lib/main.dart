@@ -13,6 +13,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MobileAds.instance.initialize();
   runApp(const MyApp());
+  // dev test
 }
 
 class MyApp extends StatelessWidget {
