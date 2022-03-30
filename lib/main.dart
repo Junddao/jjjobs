@@ -14,6 +14,8 @@ void main() async {
   MobileAds.instance.initialize();
   runApp(const MyApp());
   // dev test
+
+  // fix something in feature
 }
 
 class MyApp extends StatelessWidget {
